@@ -6,7 +6,7 @@
 *B.Tech CSE '26 | SQL • Python • Power BI • Excel*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paridhisingh18/)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paridhisingh982@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=paridhisingh982@gmail.com)
 
 </div>
 
