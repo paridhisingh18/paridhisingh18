@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Paridhi Singh 👋
-### Data Analyst | Turning Raw Data into Business Decisions
+### Data Speaks. I Listen. Then I Build.
 
 *B.Tech CSE '26 | SQL • Python • Power BI • Excel*
 
