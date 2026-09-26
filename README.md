@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a final-year CSE student who loves finding the story hidden inside messy datasets.
+I'm a CSE graduate who loves finding the story hidden inside messy datasets.
 I work end-to-end — from raw data ingestion and SQL querying to Python-based EDA, statistical testing, and publishing interactive Power BI dashboards.
 
 - 🔍 I ask **"so what?"** after every chart — insights must drive decisions, not just look pretty
